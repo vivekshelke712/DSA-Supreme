@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.html": "html",
+        "*.js": "javascriptreact",
+        "*.jsx": "javascriptreact",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
